@@ -1,6 +1,11 @@
 [user]
-	name = Marcelo Severo
+	name = Marcelo Rossini Severo
 	email = marcelosevero@msn.com
+	signingkey = 7B17244663AD8621
+[commit]
+        gpgsign = true
+[gpg]
+        program = gpg
 [push]
 	default = simple
 [filter "media"]
